@@ -19,6 +19,8 @@ While reading, the input symbol is inserted into symbol table along with its mem
 The steps are repeated till ‘$’ is reached.
 To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 Stop the program.
+
+
 PROGRAM:
 #include <stdio.h> #include <ctype.h> #include <string.h>
 
