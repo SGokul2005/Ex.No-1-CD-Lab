@@ -22,7 +22,10 @@ Stop the program.
 
 
 PROGRAM:
-#include <stdio.h> #include <ctype.h> #include <string.h>
+```
+#include <stdio.h>
+
+#include <ctype.h> #include <string.h>
 
 #define MAX_EXPRESSION_SIZE 100
 
@@ -69,7 +72,7 @@ free(add[i]);
 
 return 0;
 }
-
+```
 
 INPUT: A+B*C$
 
