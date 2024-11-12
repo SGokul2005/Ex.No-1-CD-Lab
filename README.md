@@ -1,17 +1,17 @@
-Ex. No : 1
+# Ex. No : 1
 
-IMPLEMENTATION OF SYMBOL TABLE
+# IMPLEMENTATION OF SYMBOL TABLE
 
-Register Number :212223040051
+# Register Number :212223040051
 
-Date :24:09:2024
+# Date :24:09:2024
 
-AIM:
+# AIM:
     To write a C program to implement a symbol table.
 
-ALGORITHM:
+# ALGORITHM:
 
-Start the program.
+# Start the program.
 Get the input from the user with the terminating symbol ‘$’.
 Allocate memory for the variable by dynamic memory allocation function.
 If the next character of the symbol is an operator then only the memory is allocated.
@@ -21,7 +21,7 @@ To reach a variable, enter the variable to be searched and symbol table has been
 Stop the program.
 
 
-PROGRAM:
+# PROGRAM:
 ```
 #include <stdio.h>
 
@@ -74,16 +74,16 @@ return 0;
 }
 ```
 
-INPUT: A+B*C$
+# INPUT: A+B*C$
 
 
 
 
 
-OUTPUT:
+# OUTPUT:
 ![Screenshot 2024-09-24 104615](https://github.com/user-attachments/assets/8e256cfe-4cc7-484d-adfe-4553117ddee3)
 
 
-RESULT:
+# RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
